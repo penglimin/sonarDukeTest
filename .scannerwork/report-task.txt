@@ -1,0 +1,7 @@
+organization=penglimin-github
+projectKey=penglimin_sonarDukeTest
+serverUrl=https://sonarcloud.io
+serverVersion=7.5.0.19078
+dashboardUrl=https://sonarcloud.io/dashboard?id=penglimin_sonarDukeTest
+ceTaskId=AWbx_a8FhAMvTEvF4rTW
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWbx_a8FhAMvTEvF4rTW

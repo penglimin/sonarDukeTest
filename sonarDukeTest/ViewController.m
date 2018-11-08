@@ -17,6 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSString *str = nil;
+    NSMutableArray *array = [NSMutableArray arrayWithCapacity:0];
+    [array addObject:nil];
+    NSMutableDictionary *dict = [NSMutableDictionary dictionaryWithCapacity:0];
+    [dict setObject:nil forKey:@"aaa"];
+    
 }
 
 
